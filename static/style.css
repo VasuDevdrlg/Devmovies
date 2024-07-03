@@ -1,0 +1,55 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f5;
+  background-size: cover;
+  background-image: url("https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQSxdsAmoWWz_nrsfQom4p3i8sunLLRJPROsJDvGJ-AN9ltVHWo6H9HvSDrydcKBpUW51PKhGRP2h8KGY-4MiVH8sIm_XFFe1asn1wVb7Ij6kV01c7W20X7tfIN2WvmC2R3IwkvTdIPq0vUVRWhJN3hbP.jpg?r=b6b");
+  padding: 0;
+  margin: 0;
+}
+
+.nav-item {
+  transition: all 0.15s;
+}
+
+.nav-item:hover {
+  text-decoration: underline;
+  text-underline-offset: 10%;
+  font-size: 17px;
+}
+
+.intro {
+  background: rgba(255, 255, 255, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 20px;
+  max-width: 600px;
+  margin: 20px auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+
+}
+
+h1{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.roow {
+  margin-top: 200px;
+  background-color: rgba(254, 251, 251,0.8);
+  margin: 0 auto;
+  position: fixed;
+  padding: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+  text-align: center;
+}
+p{
+  font-size: 16px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.about
+{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
