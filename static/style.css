@@ -2,6 +2,7 @@ body {
   font-family: Arial, sans-serif;
   background-color: #f0f0f5;
   background-size: cover;
+  background-repeat: no-repeat;
   background-image: url("https://dnm.nflximg.net/api/v6/2DuQlx0fM4wd1nzqm5BFBi6ILa8/AAAAQSxdsAmoWWz_nrsfQom4p3i8sunLLRJPROsJDvGJ-AN9ltVHWo6H9HvSDrydcKBpUW51PKhGRP2h8KGY-4MiVH8sIm_XFFe1asn1wVb7Ij6kV01c7W20X7tfIN2WvmC2R3IwkvTdIPq0vUVRWhJN3hbP.jpg?r=b6b");
   padding: 0;
   margin: 0;
